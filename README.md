@@ -62,12 +62,4 @@ dotnet run
    ```
 5. Open a pull request.
 
-### Running Tests
-(Currently no tests available. Add unit tests for better stability.)
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
----
-Feel free to modify and expand this README as the project evolves!
 
